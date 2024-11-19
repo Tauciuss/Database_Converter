@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrontEnd\DatabaseControl\ControlMongo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FrontEnd\DatabaseControl\ControlSQLite.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FrontEnd\ExportControl\AdvancedExportControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FrontEnd\ExportControl\SimpleExportControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FrontEnd\ExportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrontEnd\Import\ImportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrontEnd\Import\ViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrontEnd\MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrontEnd\DatabaseControl\ControlSql.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FrontEnd\QueryControl\QueryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrontEnd\ShareControl\AdvancedShareControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FrontEnd\ShareControl\ConnectionControls\MongoConnectControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FrontEnd\ShareControl\ConnectionControls\SqlConnectControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FrontEnd\ShareControl\ConnectionControls\SqliteConnectControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FrontEnd\ShareControl\SimpleShareControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FrontEnd\ShareForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrontEnd\SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

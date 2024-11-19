@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|d:\\programming\\viko_times\\baigiamasis\\source code\\converterprojectv3\\frontend\\querycontrol\\queryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\querycontrol\\queryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|d:\\programming\\viko_times\\baigiamasis\\source code\\converterprojectv3\\frontend\\sharecontrol\\simplesharecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\sharecontrol\\simplesharecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\frontend\\sharecontrol\\simplesharecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\sharecontrol\\simplesharecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\frontend\\sharecontrol\\advancedsharecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\sharecontrol\\advancedsharecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|d:\\programming\\viko_times\\baigiamasis\\source code\\converterprojectv3\\frontend\\sharecontrol\\advancedsharecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\sharecontrol\\advancedsharecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|d:\\programming\\viko_times\\baigiamasis\\source code\\converterprojectv3\\frontend\\sharecontrol\\connectioncontrols\\sqliteconnectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\sharecontrol\\connectioncontrols\\sqliteconnectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\frontend\\sharecontrol\\connectioncontrols\\sqliteconnectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\sharecontrol\\connectioncontrols\\sqliteconnectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|d:\\programming\\viko_times\\baigiamasis\\source code\\converterprojectv3\\frontend\\sharecontrol\\connectioncontrols\\sqlconnectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\sharecontrol\\connectioncontrols\\sqlconnectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\frontend\\sharecontrol\\connectioncontrols\\sqlconnectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\sharecontrol\\connectioncontrols\\sqlconnectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\frontend\\sharecontrol\\connectioncontrols\\mongoconnectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\sharecontrol\\connectioncontrols\\mongoconnectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|d:\\programming\\viko_times\\baigiamasis\\source code\\converterprojectv3\\frontend\\sharecontrol\\connectioncontrols\\mongoconnectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\sharecontrol\\connectioncontrols\\mongoconnectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|d:\\programming\\viko_times\\baigiamasis\\source code\\converterprojectv3\\frontend\\shareform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\shareform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\frontend\\shareform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\shareform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|d:\\programming\\viko_times\\baigiamasis\\source code\\converterprojectv3\\frontend\\import\\viewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\import\\viewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\frontend\\import\\viewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\import\\viewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|d:\\programming\\viko_times\\baigiamasis\\source code\\converterprojectv3\\frontend\\import\\importform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\import\\importform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\frontend\\import\\importform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\import\\importform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|d:\\programming\\viko_times\\baigiamasis\\source code\\converterprojectv3\\frontend\\exportcontrol\\advancedexportcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\exportcontrol\\advancedexportcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\frontend\\exportcontrol\\advancedexportcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DA2C11F-A3E8-43AD-9582-2D7650290BEE}|SharingSystem.csproj|solutionrelative:frontend\\exportcontrol\\advancedexportcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueryForm.cs",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\QueryControl\\QueryForm.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\QueryControl\\QueryForm.cs",
+              "ToolTip": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\QueryControl\\QueryForm.cs",
+              "RelativeToolTip": "FrontEnd\\QueryControl\\QueryForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:06:55.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdvancedShareControl.cs",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ShareControl\\AdvancedShareControl.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\ShareControl\\AdvancedShareControl.cs",
+              "ToolTip": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ShareControl\\AdvancedShareControl.cs",
+              "RelativeToolTip": "FrontEnd\\ShareControl\\AdvancedShareControl.cs",
+              "ViewState": "AQIAABMBAAAAAAAAAAAAwFEBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:06:55.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleShareControl.cs",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ShareControl\\SimpleShareControl.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\ShareControl\\SimpleShareControl.cs",
+              "ToolTip": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ShareControl\\SimpleShareControl.cs",
+              "RelativeToolTip": "FrontEnd\\ShareControl\\SimpleShareControl.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwHwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:06:55.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleShareControl.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ShareControl\\SimpleShareControl.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\ShareControl\\SimpleShareControl.cs",
+              "ToolTip": "D:\\_Studies\\Praktika\\Tests\\ConverterProjectV3\\FrontEnd\\ShareControl\\SimpleShareControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\_Studies\\Praktika\\Tests\\ConverterProjectV3\\FrontEnd\\ShareControl\\SimpleShareControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-19T23:06:56.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SqliteConnectControl.cs",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ShareControl\\ConnectionControls\\SqliteConnectControl.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\ShareControl\\ConnectionControls\\SqliteConnectControl.cs",
+              "ToolTip": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ShareControl\\ConnectionControls\\SqliteConnectControl.cs",
+              "RelativeToolTip": "FrontEnd\\ShareControl\\ConnectionControls\\SqliteConnectControl.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:06:56.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdvancedShareControl.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ShareControl\\AdvancedShareControl.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\ShareControl\\AdvancedShareControl.cs",
+              "ToolTip": "D:\\_Studies\\Praktika\\Tests\\ConverterProjectV3\\FrontEnd\\ShareControl\\AdvancedShareControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\_Studies\\Praktika\\Tests\\ConverterProjectV3\\FrontEnd\\ShareControl\\AdvancedShareControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-19T23:06:56.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SqliteConnectControl.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ShareControl\\ConnectionControls\\SqliteConnectControl.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\ShareControl\\ConnectionControls\\SqliteConnectControl.cs",
+              "ToolTip": "D:\\_Studies\\Praktika\\Tests\\ConverterProjectV3\\FrontEnd\\ShareControl\\ConnectionControls\\SqliteConnectControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\_Studies\\Praktika\\Tests\\ConverterProjectV3\\FrontEnd\\ShareControl\\ConnectionControls\\SqliteConnectControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-19T23:06:56.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqlConnectControl.cs",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ShareControl\\ConnectionControls\\SqlConnectControl.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\ShareControl\\ConnectionControls\\SqlConnectControl.cs",
+              "ToolTip": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ShareControl\\ConnectionControls\\SqlConnectControl.cs",
+              "RelativeToolTip": "FrontEnd\\ShareControl\\ConnectionControls\\SqlConnectControl.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwC4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:06:56.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SqlConnectControl.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ShareControl\\ConnectionControls\\SqlConnectControl.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\ShareControl\\ConnectionControls\\SqlConnectControl.cs",
+              "ToolTip": "D:\\_Studies\\Praktika\\Tests\\ConverterProjectV3\\FrontEnd\\ShareControl\\ConnectionControls\\SqlConnectControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\_Studies\\Praktika\\Tests\\ConverterProjectV3\\FrontEnd\\ShareControl\\ConnectionControls\\SqlConnectControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-19T23:06:56.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MongoConnectControl.cs",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ShareControl\\ConnectionControls\\MongoConnectControl.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\ShareControl\\ConnectionControls\\MongoConnectControl.cs",
+              "ToolTip": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ShareControl\\ConnectionControls\\MongoConnectControl.cs",
+              "RelativeToolTip": "FrontEnd\\ShareControl\\ConnectionControls\\MongoConnectControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:06:56.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MongoConnectControl.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ShareControl\\ConnectionControls\\MongoConnectControl.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\ShareControl\\ConnectionControls\\MongoConnectControl.cs",
+              "ToolTip": "D:\\_Studies\\Praktika\\Tests\\ConverterProjectV3\\FrontEnd\\ShareControl\\ConnectionControls\\MongoConnectControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\_Studies\\Praktika\\Tests\\ConverterProjectV3\\FrontEnd\\ShareControl\\ConnectionControls\\MongoConnectControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-19T23:06:56.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShareForm.cs",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ShareForm.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\ShareForm.cs",
+              "ToolTip": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ShareForm.cs",
+              "RelativeToolTip": "FrontEnd\\ShareForm.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:06:56.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShareForm.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ShareForm.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\ShareForm.cs",
+              "ToolTip": "D:\\_Studies\\Praktika\\Tests\\ConverterProjectV3\\FrontEnd\\ShareForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\_Studies\\Praktika\\Tests\\ConverterProjectV3\\FrontEnd\\ShareForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T23:06:56.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewForm.cs",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\Import\\ViewForm.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\Import\\ViewForm.cs",
+              "ToolTip": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\Import\\ViewForm.cs",
+              "RelativeToolTip": "FrontEnd\\Import\\ViewForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:06:56.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewForm.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\Import\\ViewForm.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\Import\\ViewForm.cs",
+              "ToolTip": "D:\\_Studies\\Praktika\\Tests\\ConverterProjectV3\\FrontEnd\\Import\\ViewForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\_Studies\\Praktika\\Tests\\ConverterProjectV3\\FrontEnd\\Import\\ViewForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T23:06:56.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ImportForm.cs",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\Import\\ImportForm.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\Import\\ImportForm.cs",
+              "ToolTip": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\Import\\ImportForm.cs",
+              "RelativeToolTip": "FrontEnd\\Import\\ImportForm.cs",
+              "ViewState": "AQIAABQBAAAAAAAAAAAIwFgBAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:06:56.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ImportForm.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\Import\\ImportForm.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\Import\\ImportForm.cs",
+              "ToolTip": "D:\\_Studies\\Praktika\\Tests\\ConverterProjectV3\\FrontEnd\\Import\\ImportForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\_Studies\\Praktika\\Tests\\ConverterProjectV3\\FrontEnd\\Import\\ImportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-19T23:06:56.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdvancedExportControl.cs",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ExportControl\\AdvancedExportControl.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\ExportControl\\AdvancedExportControl.cs",
+              "ToolTip": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ExportControl\\AdvancedExportControl.cs",
+              "RelativeToolTip": "FrontEnd\\ExportControl\\AdvancedExportControl.cs",
+              "ViewState": "AQIAAH4BAAAAAAAAAAAywKACAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:06:56.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdvancedExportControl.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\VIKO_Times\\Baigiamasis\\Source code\\ConverterProjectV3\\FrontEnd\\ExportControl\\AdvancedExportControl.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\ExportControl\\AdvancedExportControl.cs",
+              "ToolTip": "D:\\_Studies\\Praktika\\Tests\\ConverterProjectV3\\FrontEnd\\ExportControl\\AdvancedExportControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\_Studies\\Praktika\\Tests\\ConverterProjectV3\\FrontEnd\\ExportControl\\AdvancedExportControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-19T23:06:56.595Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
